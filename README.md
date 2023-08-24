@@ -1,4 +1,4 @@
-# Cafe Website (React-App)
+# Cafe Website (React-App) (On-going)
 
 ![FireShot Capture 017 - React App - localhost](https://github.com/Uncaught-TypeError/restaurant-app/assets/95492327/1059aad7-75e1-4bc5-9b43-40de87490b3b)
 
