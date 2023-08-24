@@ -1,3 +1,7 @@
+# Cafe Website (React-App)
+
+![FireShot Capture 017 - React App - localhost](https://github.com/Uncaught-TypeError/restaurant-app/assets/95492327/1059aad7-75e1-4bc5-9b43-40de87490b3b)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
